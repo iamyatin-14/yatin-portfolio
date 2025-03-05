@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Global Styles */
+body {
+  @apply bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-200;
+  font-family: "Inter", sans-serif;
+}
+
+.container {
+  @apply max-w-4xl mx-auto px-4;
+}
+
+/* Button Styles */
+.btn {
+  @apply px-4 py-2 rounded bg-blue-500 text-white hover:bg-blue-600 transition;
+}
+
+/* Input and Form Styles */
+input, textarea {
+  @apply w-full p-2 border rounded bg-white dark:bg-gray-800 dark:text-white;
+}
