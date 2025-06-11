@@ -39,7 +39,7 @@ export const submitContactForm = async (formData) => {
       message: "Message sent successfully! I'll get back to you soon.",
       messageId: docRef.id,
     };
-  } catch (error) {
+  } catch {
     return {
       success: false,
       message: "Something went wrong. Please try again later.",

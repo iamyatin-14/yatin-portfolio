@@ -265,7 +265,7 @@ npm run build
 
 ## 🔧 Configuration
 
-### Firebase Setup
+### Firebase Setup(verify FIREBASE_SETUP.md)
 
 1. Create Firebase project
 2. Enable Firestore Database
@@ -308,36 +308,6 @@ npm run lint         # Run ESLint
 - **Utils**: Helper functions and utilities
 - **Config**: Configuration files
 - **Data**: Content and data files
-
-## 🔮 Future Enhancements
-
-### Planned Features
-
-- 📱 **Admin Dashboard**: Manage contact messages
-- 📧 **Email Notifications**: Get notified of new messages
-- 📊 **Analytics**: Track user interactions
-- 🌐 **Internationalization**: Multi-language support
-- 🎨 **Theme Toggle**: Dark/light mode
-- 📁 **File Uploads**: Allow attachments in contact form
-
-### Technical Improvements
-
-- 🎯 **TypeScript**: Add type safety
-- 🧪 **Testing**: Unit and integration tests
-- 📱 **PWA**: Progressive web app features
-- 🔔 **Real-time**: Live updates for admin dashboard
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **React Team** for the amazing framework
-- **Vite Team** for the fast build tool
-- **Tailwind CSS** for the utility-first CSS framework
-- **Firebase** for the backend services
-- **Framer Motion** for the smooth animations
 
 **Made with ❤️ by Y'**
 

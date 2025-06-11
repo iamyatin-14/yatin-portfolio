@@ -31,16 +31,16 @@ src/data/contents.private.json
 .env.test.local
 .env.production.local
 
-# Personal Images (optional - remove if you want to share your image)
-src/assets/yatin.JPG
-src/assets/moviereview.png
-src/assets/connectfood.png
-
 # Firebase
 .firebase/
 firebase-debug.log
 firestore-debug.log
 ui-debug.log
+.firebaserc
+firebase.json
+firestore.rules
+firestore.indexes.json
+
 
 # Build outputs
 build/

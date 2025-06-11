@@ -41,7 +41,7 @@ try {
   } else {
     contents = templateData;
   }
-} catch (error) {
+} catch {
   contents = fallbackData;
 }
 
