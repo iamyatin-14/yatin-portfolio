@@ -5,7 +5,6 @@
     "bio": "Your bio description here.",
     "imageUrl": "src/assets/your-image.jpg",
     "resume": "https://your-resume-link.com",
-    "portfolio": "https://your-portfolio.com",
     "skills": {
       "programmingLanguages": ["Language1", "Language2"],
       "database": ["Database1", "Database2"],

@@ -104,7 +104,7 @@ const Home = () => {
                     clipRule="evenodd"
                   />
                 </svg>
-                <span>Download Resume</span>
+                <span>View Resume</span>
               </button>
               <Link
                 to="/contact"
