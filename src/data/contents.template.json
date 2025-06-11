@@ -1,0 +1,58 @@
+{
+  "personal": {
+    "name": "Your Name",
+    "role": "Your Role",
+    "bio": "Your bio description here.",
+    "imageUrl": "src/assets/your-image.jpg",
+    "resume": "https://your-resume-link.com",
+    "portfolio": "https://your-portfolio.com",
+    "skills": {
+      "programmingLanguages": ["Language1", "Language2"],
+      "database": ["Database1", "Database2"],
+      "backend": ["Backend1", "Backend2"],
+      "frontend": ["Frontend1", "Frontend2"],
+      "versionControl": ["Git", "GitHub"],
+      "otherTools": ["Tool1", "Tool2"]
+    },
+    "social": {
+      "github": "https://github.com/your-username",
+      "linkedin": "https://linkedin.com/in/your-profile",
+      "email": "your-email@example.com"
+    }
+  },
+  "projects": [
+    {
+      "title": "Project Title",
+      "description": "Project description here.",
+      "image": "/projects/project-image.jpg",
+      "technologies": ["Tech1", "Tech2"],
+      "github": "https://github.com/your-username/project-repo"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Job Title",
+      "company": "Company Name",
+      "location": "Location",
+      "startDate": "Start Date",
+      "responsibilities": ["Responsibility 1", "Responsibility 2"]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certification Name",
+      "issuer": "Issuing Organization",
+      "date": "Date",
+      "url": "https://certification-url.com"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Achievement Title",
+      "description": "Achievement description here.",
+      "date": "Date",
+      "category": "Category",
+      "icon": "🏆"
+    }
+  ]
+}
